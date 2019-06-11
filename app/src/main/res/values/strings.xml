@@ -6,4 +6,10 @@
     <string name="s1_e2">S1:E2</string>
     <string name="imagem_message">imagem_message</string>
     <string name="imagem_volume">imagem_volume</string>
+    <string name="_41_20">41:20</string>
+    <string name="_01_00">01:00</string>
+    <string name="imagem_pausar">imagem_pausar</string>
+    <string name="imagem_voltar">imagem_voltar</string>
+    <string name="imagem_parar">imagem_parar</string>
+    <string name="house_imagem">house_imagem</string>
 </resources>
