@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Guidelines</string>
+    <string name="imagem_settings">imagem_settings</string>
+    <string name="imagem_estrela">imagem_estrela</string>
+    <string name="house_of_cards">House of Cards</string>
+    <string name="s1_e2">S1:E2</string>
+    <string name="imagem_message">imagem_message</string>
+    <string name="imagem_volume">imagem_volume</string>
 </resources>
